@@ -13,3 +13,7 @@ siempre busca el feedback, para saber si existe algun otro problema con que ayud
 usuario enojado o prepotente, no ignorar, si no entender su motivo y ayudar, ser paciente, desglosa los pasos en partes breves para que el usuario entienda, respaldarse con documentacion, pero primero validando su punto de vista
  bugzilla, jira Redmiune, programas para registrar bugs, revisar tickets, esto mantioene a los usuarios actualizados y a mi me ayuda poara poder tener todo documentado y los pasos por persona que he ayudado
 documentos deben ser precisos y concisos, cosa que un usuario pueda leerlo y entenderlo, no siempre tecnico
+
+###Prueba para hacer separaciones en formato md
+- Deberia verse separado
+
