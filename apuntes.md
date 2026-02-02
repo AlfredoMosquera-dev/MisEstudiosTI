@@ -28,3 +28,11 @@
 ###Prueba para hacer separaciones en formato md
 - Deberia verse separado
 
+
+- no es necesario tener todos los aplicativos utilizados en el aprendizaje
+-importante tambien saber que describe el puesto al que quiero postular
+-ademas de las expectativas del trabajo
+
+
+-
+
