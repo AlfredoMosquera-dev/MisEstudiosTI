@@ -1,3 +1,6 @@
+# Mis Estudios TI
+##Apuntes clases
+
 Siempre hacer preguntas, las más posibles para poder encontrar los detalles porquie algo no funciona
 Siempre servir en base a que tu sabes y la otra persona no
 delimitar campo de preguntas para no adivinar 
