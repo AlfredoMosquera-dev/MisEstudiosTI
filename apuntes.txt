@@ -7,3 +7,4 @@ la clave del exito es la pasion por lo que estas haciendo, saber responder a tod
  claves : empatico con el usuario, ser conciente del tono de voz, reconocer con quien estoy hablando ademas de generar confianza con el usuario 
 intenta conectar mediante comentarios personales, algo pudo haber mencionado que pueda conectar con esa persona y hacer de un problema un momento agradable mientras se soluciona el problema 
 siempre busca el feedback, para saber si existe algun otro problema con que ayudar o si la ayuda fue satisfactoria
+usuario enojado o prepotente, no ignorar, si no entender su motivo y ayudar, ser paciente, desglosa los pasos en partes breves para que el usuario entienda, respaldarse con documentacion, pero primero validando su punto de vista
