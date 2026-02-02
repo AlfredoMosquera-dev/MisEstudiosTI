@@ -63,3 +63,6 @@ si no se la respuesta de algo, no debo quedarme con un no se, sino con como podr
 - la mas conocida es tcp/ip
 -5 capa, la de aplicacion
 
+
+Crosstalk o diaffonia es cuando un impulso electrico en eun cable se detecta accidentalmente por otro cable, por lo que provoca errores de red
+
