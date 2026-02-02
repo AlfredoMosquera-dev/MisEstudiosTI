@@ -8,3 +8,4 @@ la clave del exito es la pasion por lo que estas haciendo, saber responder a tod
 intenta conectar mediante comentarios personales, algo pudo haber mencionado que pueda conectar con esa persona y hacer de un problema un momento agradable mientras se soluciona el problema 
 siempre busca el feedback, para saber si existe algun otro problema con que ayudar o si la ayuda fue satisfactoria
 usuario enojado o prepotente, no ignorar, si no entender su motivo y ayudar, ser paciente, desglosa los pasos en partes breves para que el usuario entienda, respaldarse con documentacion, pero primero validando su punto de vista
+ bugzilla, jira Redmiune, programas para registrar bugs, revisar tickets, esto mantioene a los usuarios actualizados y a mi me ayuda poara poder tener todo documentado y los pasos por persona que he ayudado
