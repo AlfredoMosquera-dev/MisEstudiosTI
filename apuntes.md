@@ -66,3 +66,5 @@ si no se la respuesta de algo, no debo quedarme con un no se, sino con como podr
 
 Crosstalk o diaffonia es cuando un impulso electrico en eun cable se detecta accidentalmente por otro cable, por lo que provoca errores de red
 
+
+- DNS proporciona una facilidad para visitar sitios sin tener que memorizar una ip
